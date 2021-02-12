@@ -11,3 +11,7 @@
 
 ### Creating a RESTful API using Amazon API Gateway
     * Defining a model for the API
+    * Define resources for the model
+    * Add a method for clients to access the resources
+
+### Connect your first serverless function 
