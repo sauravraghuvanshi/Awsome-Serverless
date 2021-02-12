@@ -23,3 +23,7 @@
 * Monitor an S3 bucket and trigger a file conversion with a lambda function
 * Use AWS Lambda function in an application 
 * Monitor and debug Lambda fuction using AWS CloudWatch
+
+## Sections:-
+1. **Section:1:-** What is serverless computing?
+2. **Section:2:-** Understanding AWS Lambda to Run & Scale your code.
