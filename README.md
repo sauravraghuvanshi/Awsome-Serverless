@@ -4,14 +4,19 @@
 
 ## Learning Path Agenda of Complete Repository:-
 
-### What is serverless computing
-    * What is serverless computing and how does it work?
-    * What are the building blocks of serverless computing?
-    * How do people use serverless function in design?
+### What is serverless computing:-
+* What is serverless computing and how does it work?
+* What are the building blocks of serverless computing?
+* How do people use serverless function in design?
 
-### Creating a RESTful API using Amazon API Gateway
-    * Defining a model for the API
-    * Define resources for the model
-    * Add a method for clients to access the resources
+### Creating a RESTful API using Amazon API Gateway:-
+* Defining a model for the API
+* Define resources for the model
+* Add a method for clients to access the resources
 
-### Connect your first serverless function 
+### Connect your first serverless function using AWS Lambda:-
+* Implement a serverless function with AWS Lambda
+* Connect our lambda function up ton our API Gateway
+
+### Using Serverless function:-
+* 
