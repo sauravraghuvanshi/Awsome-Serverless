@@ -25,5 +25,5 @@
 * Monitor and debug Lambda fuction using AWS CloudWatch
 
 ## Sections:-
-1. [**Section:1:-** What is serverless computing?](C:\Users\saura\Documents\GitHub\Awsome-Serverless\Section 1- What is serverless computing)
-2. [**Section:2:-** Understanding AWS Lambda to Run & Scale your code.](C:\Users\saura\Documents\GitHub\Awsome-Serverless\Section 2-Understanding AWS Lambda to Run & Scale your code)
+1. [**Section:1:-** What is serverless computing?](https://github.com/sauravraghuvanshi/Awsome-Serverless/tree/main/Section%201-%20What%20is%20serverless%20computing)
+2. [**Section:2:-** Understanding AWS Lambda to Run & Scale your code.](https://github.com/sauravraghuvanshi/Awsome-Serverless/tree/main/Section%202-Understanding%20AWS%20Lambda%20to%20Run%20%26%20Scale%20your%20code)
