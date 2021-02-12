@@ -19,4 +19,7 @@
 * Connect our lambda function up ton our API Gateway
 
 ### Using Serverless function:-
-* 
+* Read values from a Lambda function using an API Gateway endpoint
+* Monitor an S3 bucket and trigger a file conversion with a lambda function
+* Use AWS Lambda function in an application 
+* Monitor and debug Lambda fuction using AWS CloudWatch
