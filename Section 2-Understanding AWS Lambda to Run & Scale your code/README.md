@@ -13,5 +13,12 @@
 - **Monitoring and Troubleshooting AWS Lambda:-**
   * The options available to you when monitoring your lambda and some of the common problems that arises when running your function and what to check.
 
-
+## What will you gain after competing this section:-
+* Explains what AWS Lambda is and what it is used for.
+* Define the components used within Lambda
+* Explains the different elements of a lambda function through its creations
+* Understand the key difference between policies used within lambda
+* Understand how events source and event mapping are managed for both synchronous and asynchronous invocations
+* Use Amazon Cloud watch to monitor matrices and logs to issolate issues with your features
+* Check for common errors that might be cousing your functions to fails
  
