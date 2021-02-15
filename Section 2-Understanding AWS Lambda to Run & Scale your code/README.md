@@ -34,4 +34,9 @@
 3. Once the specific trigger is inittiated. Lambda will run your code(as per your lambda function) using only the required compute as defined
 4. AWS records the compute time in Milliseconds and the quantity of Lambda functions run to calculate the cost of the service
 
+### Components of AWS Lambda:-
+1. A **Lambda Function** is compiled of your own code that you want to execute
+2. **Event Source** are AWS services that can be used to trigger your Lambda functions
+3. **Downstream** are resources that are required during the execution of your Lambda fuction(that maybe SNS or SQS)
+4. **Log Streams** help to identify issues and trubleshoot issues with your Lambda function 
  
