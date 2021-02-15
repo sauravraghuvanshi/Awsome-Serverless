@@ -23,5 +23,8 @@
 * Check for common errors that might be cousing your functions to fails
 
 ## An overview of AWS Lambda
-
+* It is a serverless compute service that allow you to run your application code without haveing to manage your EC2 instances
+* The responsibility to maintain and administer the EC2 instance is passed over to AWS to manage for you
+* You only ever have to pay for for compute power when Lambda is in used  via Lambda functions
+* 
  
