@@ -26,5 +26,12 @@
 * It is a serverless compute service that allow you to run your application code without haveing to manage your EC2 instances
 * The responsibility to maintain and administer the EC2 instance is passed over to AWS to manage for you
 * You only ever have to pay for for compute power when Lambda is in used  via Lambda functions
-* 
+* AWS Lambda charges compute power per 100ms of use only when your code is running in addetion to number of times your code runs
+
+### There are four steps involved in AWS Lambda
+1. You can either upload your code to lambda, or write within the code editors that lambda provides. It supports **Node.js, Java, C#, Python, Go, Powershell, Ruby**
+2. Configure your Lambda functions to execute upon specific triggers from supported event source
+3. Once the specific trigger is inittiated. Lambda will run your code(as per your lambda function) using only the required compute as defined
+4. AWS records the compute time in Milliseconds and the quantity of Lambda functions run to calculate the cost of the service
+
  
