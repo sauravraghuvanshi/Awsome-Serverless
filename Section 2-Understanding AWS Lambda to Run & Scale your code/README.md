@@ -42,3 +42,8 @@
 
 ## Demo: Creating a Lambda Function:-
 * The lambda function is compiled of your own code that you want to invoke as per the defined trigger
+* Prior to creating your function, you need to have some code to add to it
+* The deployment package will either be .zip or a .jar file and will contain your code and any dependencies
+* How you create these deployment packages depends on the programming language that you decide to use within your function
+* Once your deployment package has been created, you will need to modify the permission against your .zip file
+* If you write from within Lambda itself, then it would create deployment packages for you.
