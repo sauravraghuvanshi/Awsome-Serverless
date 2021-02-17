@@ -48,3 +48,8 @@
 * Once your deployment package has been created, you will need to modify the permission against your .zip file
 * If you write from within Lambda itself, then it would create deployment packages for you.
 * You can able to upload your code via SDK, Management Console or AWS CLI
+
+### For creating function we have 3 options in Lambda:-
+1. **Author from scratch:-** Here we have to write our own code from scratch
+2. **Blueprints:-** From this option we can able to choose from a preconfigured templates which we can able to change the code based on our requirements.
+
