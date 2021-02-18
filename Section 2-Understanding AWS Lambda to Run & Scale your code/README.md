@@ -54,3 +54,4 @@
 2. **Blueprints:-** From this option we can able to choose from a preconfigured templates which we can able to change the code based on our requirements.
 3. **AWS Serverless Application Repository:-** We can able to use and deploy application which is provided by thrid party.
 
+
