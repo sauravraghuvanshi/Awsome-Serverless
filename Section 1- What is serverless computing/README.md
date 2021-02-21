@@ -13,4 +13,6 @@
 * Lambda runs your code for you.
 * We rent the infrastructure to run the code.
 * **There are still servers, but these resurces are managed by cloud provider.**
-* It is also know as **Function as a Service(FaaS)**
+* It is also know as **Function as a Service(FaaS).**
+* We only pay for the time our function runs.
+* We can expect the service to be highly reliable and highly available.
