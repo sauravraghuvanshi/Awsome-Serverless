@@ -7,3 +7,10 @@
 * How does Serverless Computing differ from traditional computing?
 * What are common use cases for serverless computing?
 * How to get started?
+
+### What is Serverless Computing:-
+* It comes when AWS releases service know as Lambda.
+* Lambda runs your code for you.
+* We rent the infrastructure to run the code.
+* **There are still servers, but these resurces are managed by cloud provider.**
+* It is also know as **Function as a Service(FaaS)**
