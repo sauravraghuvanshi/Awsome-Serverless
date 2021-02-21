@@ -16,3 +16,5 @@
 * It is also know as **Function as a Service(FaaS).**
 * We only pay for the time our function runs.
 * We can expect the service to be highly reliable and highly available.
+* We don't manage or own the infrastructure.
+* You still need to manage some aspects of serverless function.
