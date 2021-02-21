@@ -41,17 +41,6 @@
 4. **Log Streams** help to identify issues and trubleshoot issues with your Lambda function 
 
 ## Demo: Creating a Lambda Function:-
-* The lambda function is compiled of your own code that you want to invoke as per the defined trigger
-* Prior to creating your function, you need to have some code to add to it
-* The deployment package will either be .zip or a .jar file and will contain your code and any dependencies
-* How you create these deployment packages depends on the programming language that you decide to use within your function
-* Once your deployment package has been created, you will need to modify the permission against your .zip file
-* If you write from within Lambda itself, then it would create deployment packages for you.
-* You can able to upload your code via SDK, Management Console or AWS CLI
 
-### For creating function we have 3 options in Lambda:-
-1. **Author from scratch:-** Here we have to write our own code from scratch
-2. **Blueprints:-** From this option we can able to choose from a preconfigured templates which we can able to change the code based on our requirements.
-3. **AWS Serverless Application Repository:-** We can able to use and deploy application which is provided by thrid party.
 
 ## Understanding Event Source Mapping:-
