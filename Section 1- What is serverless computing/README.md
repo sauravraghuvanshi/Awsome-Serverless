@@ -18,3 +18,9 @@
 * We can expect the service to be highly reliable and highly available.
 * We don't manage or own the infrastructure.
 * You still need to manage some aspects of serverless function.
+
+### How Does Serverless Computing work?
+* It create a container environment to execute our code
+* No guarentee your function will run in the same container
+* Lambda function are each allocated a  512MB/ tmp directory
+* You can check to see if that is available when invoking a new function
