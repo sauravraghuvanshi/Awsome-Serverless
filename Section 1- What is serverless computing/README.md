@@ -24,3 +24,12 @@
 * No guarentee your function will run in the same container
 * Lambda function are each allocated a  512MB/ tmp directory
 * You can check to see if that is available when invoking a new function
+* Don't make your code ststem dependent as each time lambda may create a complete different container
+* Runtime Language: Node.js, java, python, .Net Core
+
+### How do we Trigger a Lambda function?
+* Lambda use invoke function for trigger
+* **There are three type of Invocation:-**
+  * Request Response(Default)
+  * Event
+  * Dry Run
