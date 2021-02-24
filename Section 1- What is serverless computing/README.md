@@ -36,3 +36,5 @@
 * RequestResponse = synchronous = run in real time
 * Event: It can be puch or pull based and has 2 mode synchronous and asynchronous
 * For puch we have to define method to be synchronous or asynchronous. FOr pull it is defined by AWS Services
+* Dry Run: It is just to check things work or not but it will not have a run environment
+* There is also HTTPS request which use to invoke Lambda function by sending data in the request body as a parameter to that Lambda function
