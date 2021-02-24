@@ -33,3 +33,6 @@
   * Request Response(Default)
   * Event
   * Dry Run
+* RequestResponse = synchronous = run in real time
+* Event: It can be puch or pull based and has 2 mode synchronous and asynchronous
+* For puch we have to define method to be synchronous or asynchronous. FOr pull it is defined by AWS Services
