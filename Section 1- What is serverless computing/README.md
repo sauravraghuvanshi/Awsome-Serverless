@@ -38,3 +38,7 @@
 * For puch we have to define method to be synchronous or asynchronous. FOr pull it is defined by AWS Services
 * Dry Run: It is just to check things work or not but it will not have a run environment
 * There is also HTTPS request which use to invoke Lambda function by sending data in the request body as a parameter to that Lambda function
+
+### What is Rest API?
+* **REST =** Representational State Transfer
+* Allows a requesting system to access and manipulate textual representaion of web resources using a uniform and predefined set of stateless operations 
