@@ -44,4 +44,5 @@
 * Allows a requesting system to access and manipulate textual representaion of web resources using a uniform and predefined set of stateless operations 
 
 ### What are building blocks of Function-as-a-Service(FaaS):-
+1. The first building block is **RESTful API**. REST is based on HTTP(Hyper Text Transfer Protocal). HTTP is use to  exchange 
  
