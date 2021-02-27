@@ -42,3 +42,6 @@
 ### What is Rest API?
 * **REST =** Representational State Transfer
 * Allows a requesting system to access and manipulate textual representaion of web resources using a uniform and predefined set of stateless operations 
+
+### What are building blocks of Function-as-a-Service(FaaS):-
+ 
