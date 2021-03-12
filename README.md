@@ -28,4 +28,4 @@
 1. [**Section:1:-** What is serverless computing?](https://github.com/sauravraghuvanshi/Awsome-Serverless/tree/main/Section%201-%20What%20is%20serverless%20computing)
 2. [**Section:2:-** Understanding AWS Lambda to Run & Scale your code.](https://github.com/sauravraghuvanshi/Awsome-Serverless/tree/main/Section%202-Understanding%20AWS%20Lambda%20to%20Run%20%26%20Scale%20your%20code)
 3. [**Section:3:-** Creating a API Gateway](https://github.com/sauravraghuvanshi/Awsome-Serverless/tree/main/Section%203-%20Creating%20an%20API%20Gateway)
-4. [**Section:4:-** Creating our firs Serverless Function](https://github.com/sauravraghuvanshi/Awsome-Serverless/tree/main/Section%204-Creating%20our%20first%20Serverless%20Function)
+4. [**Section:4:-** Creating our first Serverless Function](https://github.com/sauravraghuvanshi/Awsome-Serverless/tree/main/Section%204-Creating%20our%20first%20Serverless%20Function)
